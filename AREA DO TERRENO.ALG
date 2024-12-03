@@ -16,7 +16,7 @@ leia (v)
 A<- L*C
 P<-A*V
 
-escreval("a area do terreno é:",A:8:2)
+escreval("a area do terreno Ã©:",A:8:2)
 escreva("o terreno custa:",P:8:2)
 
 
